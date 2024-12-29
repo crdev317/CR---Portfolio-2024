@@ -1,5 +1,7 @@
 # crdev317.github.io
 
+#https://crdev317.github.io/crdev317-crdev317.github.io/#home
+
 GitHub Pages Create a Repository There are two different types of GitHub Pages repositories:
 
 User sites are hosted at https://YOUR_USERNAME.github.io and are used for things like personal homepages, portfolio pages, and other sites associated with you as a user. To create a user site GitHub Pages repository, create a repo named YOUR_USERNAME.github.io.
